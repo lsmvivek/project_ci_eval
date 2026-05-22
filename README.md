@@ -1,1 +1,1 @@
-Python scripts and juptyer notebooks to reproduce the figures and analysis in causal discovery in Hydrometeorological systems.
+Python scripts and juptyer notebooks to reproduce the figures and analysis in causal discovery in Hydrometeorological systems. The generated figures form the main figures of our paper submitted to HESS. Currently under review at https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4650/.
